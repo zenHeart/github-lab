@@ -5,4 +5,5 @@
 
 
 ## 插件使用
+- [TODO](https://todo.jasonet.co/) 读取 github 的 todo 注释自动创建 issue
 
